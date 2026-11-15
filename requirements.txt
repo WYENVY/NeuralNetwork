@@ -1,0 +1,3 @@
+numpy
+matplotlib
+scikit-learn   # only used to load the digits dataset, not for any learning
